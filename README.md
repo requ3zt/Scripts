@@ -11,4 +11,4 @@ The wp.getUsersBlogs method is not the only existing method, not the only vulner
 
 IMPORTANT!!!
 
-*Before you use this script it's necesary to know the user for the login! If you want to extract the usernames of the WordPress page I recomend to use the tool **wpsacn***
+*Before you use this script it's necesary to know the user for the login! If you want to extract the usernames of the WordPress page I recomend to use the tool **wpscan***
